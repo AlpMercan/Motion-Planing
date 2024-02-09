@@ -4,7 +4,7 @@ import numpy as np
 
 
 class Node:
-    """A node class for A* Pathfinding"""
+
 
     def __init__(self, parent=None, position=None):
         self.parent = parent
@@ -75,7 +75,6 @@ def plot_maze(maze, start, end, path, closed_list):
     fig, ax = plt.subplots(figsize=(10, 10))
     ax.imshow(maze, cmap="gray")
 
-    # Plot closed list as explored nodes
     for node in closed_list:
         ax.scatter(
             node.position[1],
