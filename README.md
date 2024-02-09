@@ -5,4 +5,5 @@ Figure1: Dijkstra Gif for Simple Script
 ![resim](https://github.com/AlpMercan/Motion-Planing/assets/112685013/371b0344-2c43-4ea9-806a-376ca5651cfc)
 Figure2: A* for Simple Script
 ![resim](https://github.com/AlpMercan/Motion-Planing/assets/112685013/6c595031-a0d5-4911-912b-454d0883117e)
+
 Figure3: RRT for Simple Script
